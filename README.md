@@ -1,1 +1,3 @@
 # CodeAlpha_Hangman-game.
+DEScription:
+This code implements a simple Hangman game in Python. The purpose is to guess a randomly chosen word from a predefined list by suggesting letters within a limited number of attempts (lives). The game displays the progress with dashes representing unguessed letters and updates the display as the player guesses correctly. Incorrect guesses result in a reduction of lives, visually represented by stages of a hangman. The game ends either when the player successfully guesses the entire word, winning the game, or runs out of lives, resulting in a loss. The final guessed word or the losing word is revealed at the end.
